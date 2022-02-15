@@ -61,7 +61,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BD", "BD\BD.csproj", "{9396
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntityFrameworkSystem", "EntityFrameworkSystem\EntityFrameworkSystem.csproj", "{4B4E5D08-7EAC-43A8-BD6B-01151934F3BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionalProgramming", "FunctionalProgramming\FunctionalProgramming.csproj", "{82AA389E-9F60-4A09-8DB1-EDDF3F35EACD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionalProgramming", "FunctionalProgramming\FunctionalProgramming.csproj", "{82AA389E-9F60-4A09-8DB1-EDDF3F35EACD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Script", "Script", "{CE5C9F94-9CCE-4A0E-8DFC-1FFD4C92A7C6}"
+	ProjectSection(SolutionItems) = preProject
+		D:\Descargas\bd.sql = D:\Descargas\bd.sql
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
