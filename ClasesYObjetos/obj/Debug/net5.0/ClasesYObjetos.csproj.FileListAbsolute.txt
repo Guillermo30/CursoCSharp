@@ -1,0 +1,31 @@
+C:\Users\Bioxor\source\repos\Variables\ClasesYObjetos\bin\Debug\net5.0\ClasesYObjetos.exe
+C:\Users\Bioxor\source\repos\Variables\ClasesYObjetos\bin\Debug\net5.0\ClasesYObjetos.deps.json
+C:\Users\Bioxor\source\repos\Variables\ClasesYObjetos\bin\Debug\net5.0\ClasesYObjetos.runtimeconfig.json
+C:\Users\Bioxor\source\repos\Variables\ClasesYObjetos\bin\Debug\net5.0\ClasesYObjetos.runtimeconfig.dev.json
+C:\Users\Bioxor\source\repos\Variables\ClasesYObjetos\bin\Debug\net5.0\ClasesYObjetos.dll
+C:\Users\Bioxor\source\repos\Variables\ClasesYObjetos\bin\Debug\net5.0\ref\ClasesYObjetos.dll
+C:\Users\Bioxor\source\repos\Variables\ClasesYObjetos\bin\Debug\net5.0\ClasesYObjetos.pdb
+C:\Users\Bioxor\source\repos\Variables\ClasesYObjetos\obj\Debug\net5.0\ClasesYObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bioxor\source\repos\Variables\ClasesYObjetos\obj\Debug\net5.0\ClasesYObjetos.AssemblyInfoInputs.cache
+C:\Users\Bioxor\source\repos\Variables\ClasesYObjetos\obj\Debug\net5.0\ClasesYObjetos.AssemblyInfo.cs
+C:\Users\Bioxor\source\repos\Variables\ClasesYObjetos\obj\Debug\net5.0\ClasesYObjetos.csproj.CoreCompileInputs.cache
+C:\Users\Bioxor\source\repos\Variables\ClasesYObjetos\obj\Debug\net5.0\ClasesYObjetos.dll
+C:\Users\Bioxor\source\repos\Variables\ClasesYObjetos\obj\Debug\net5.0\ref\ClasesYObjetos.dll
+C:\Users\Bioxor\source\repos\Variables\ClasesYObjetos\obj\Debug\net5.0\ClasesYObjetos.pdb
+C:\Users\Bioxor\source\repos\Variables\ClasesYObjetos\obj\Debug\net5.0\ClasesYObjetos.genruntimeconfig.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\ClasesYObjetos\bin\Debug\net5.0\ClasesYObjetos.exe
+C:\Users\Bioxor\source\repos\Csharp Curso\ClasesYObjetos\bin\Debug\net5.0\ClasesYObjetos.deps.json
+C:\Users\Bioxor\source\repos\Csharp Curso\ClasesYObjetos\bin\Debug\net5.0\ClasesYObjetos.runtimeconfig.json
+C:\Users\Bioxor\source\repos\Csharp Curso\ClasesYObjetos\bin\Debug\net5.0\ClasesYObjetos.runtimeconfig.dev.json
+C:\Users\Bioxor\source\repos\Csharp Curso\ClasesYObjetos\bin\Debug\net5.0\ClasesYObjetos.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\ClasesYObjetos\bin\Debug\net5.0\ref\ClasesYObjetos.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\ClasesYObjetos\bin\Debug\net5.0\ClasesYObjetos.pdb
+C:\Users\Bioxor\source\repos\Csharp Curso\ClasesYObjetos\obj\Debug\net5.0\ClasesYObjetos.csproj.AssemblyReference.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\ClasesYObjetos\obj\Debug\net5.0\ClasesYObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bioxor\source\repos\Csharp Curso\ClasesYObjetos\obj\Debug\net5.0\ClasesYObjetos.AssemblyInfoInputs.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\ClasesYObjetos\obj\Debug\net5.0\ClasesYObjetos.AssemblyInfo.cs
+C:\Users\Bioxor\source\repos\Csharp Curso\ClasesYObjetos\obj\Debug\net5.0\ClasesYObjetos.csproj.CoreCompileInputs.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\ClasesYObjetos\obj\Debug\net5.0\ClasesYObjetos.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\ClasesYObjetos\obj\Debug\net5.0\ref\ClasesYObjetos.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\ClasesYObjetos\obj\Debug\net5.0\ClasesYObjetos.pdb
+C:\Users\Bioxor\source\repos\Csharp Curso\ClasesYObjetos\obj\Debug\net5.0\ClasesYObjetos.genruntimeconfig.cache

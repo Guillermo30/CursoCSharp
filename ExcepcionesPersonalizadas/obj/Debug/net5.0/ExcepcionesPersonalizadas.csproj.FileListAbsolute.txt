@@ -1,0 +1,32 @@
+C:\Users\Bioxor\source\repos\Variables\ExcepcionesPersonalizadas\bin\Debug\net5.0\ExcepcionesPersonalizadas.exe
+C:\Users\Bioxor\source\repos\Variables\ExcepcionesPersonalizadas\bin\Debug\net5.0\ExcepcionesPersonalizadas.deps.json
+C:\Users\Bioxor\source\repos\Variables\ExcepcionesPersonalizadas\bin\Debug\net5.0\ExcepcionesPersonalizadas.runtimeconfig.json
+C:\Users\Bioxor\source\repos\Variables\ExcepcionesPersonalizadas\bin\Debug\net5.0\ExcepcionesPersonalizadas.runtimeconfig.dev.json
+C:\Users\Bioxor\source\repos\Variables\ExcepcionesPersonalizadas\bin\Debug\net5.0\ExcepcionesPersonalizadas.dll
+C:\Users\Bioxor\source\repos\Variables\ExcepcionesPersonalizadas\bin\Debug\net5.0\ref\ExcepcionesPersonalizadas.dll
+C:\Users\Bioxor\source\repos\Variables\ExcepcionesPersonalizadas\bin\Debug\net5.0\ExcepcionesPersonalizadas.pdb
+C:\Users\Bioxor\source\repos\Variables\ExcepcionesPersonalizadas\obj\Debug\net5.0\ExcepcionesPersonalizadas.csproj.AssemblyReference.cache
+C:\Users\Bioxor\source\repos\Variables\ExcepcionesPersonalizadas\obj\Debug\net5.0\ExcepcionesPersonalizadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bioxor\source\repos\Variables\ExcepcionesPersonalizadas\obj\Debug\net5.0\ExcepcionesPersonalizadas.AssemblyInfoInputs.cache
+C:\Users\Bioxor\source\repos\Variables\ExcepcionesPersonalizadas\obj\Debug\net5.0\ExcepcionesPersonalizadas.AssemblyInfo.cs
+C:\Users\Bioxor\source\repos\Variables\ExcepcionesPersonalizadas\obj\Debug\net5.0\ExcepcionesPersonalizadas.csproj.CoreCompileInputs.cache
+C:\Users\Bioxor\source\repos\Variables\ExcepcionesPersonalizadas\obj\Debug\net5.0\ExcepcionesPersonalizadas.dll
+C:\Users\Bioxor\source\repos\Variables\ExcepcionesPersonalizadas\obj\Debug\net5.0\ref\ExcepcionesPersonalizadas.dll
+C:\Users\Bioxor\source\repos\Variables\ExcepcionesPersonalizadas\obj\Debug\net5.0\ExcepcionesPersonalizadas.pdb
+C:\Users\Bioxor\source\repos\Variables\ExcepcionesPersonalizadas\obj\Debug\net5.0\ExcepcionesPersonalizadas.genruntimeconfig.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\ExcepcionesPersonalizadas\bin\Debug\net5.0\ExcepcionesPersonalizadas.exe
+C:\Users\Bioxor\source\repos\Csharp Curso\ExcepcionesPersonalizadas\bin\Debug\net5.0\ExcepcionesPersonalizadas.deps.json
+C:\Users\Bioxor\source\repos\Csharp Curso\ExcepcionesPersonalizadas\bin\Debug\net5.0\ExcepcionesPersonalizadas.runtimeconfig.json
+C:\Users\Bioxor\source\repos\Csharp Curso\ExcepcionesPersonalizadas\bin\Debug\net5.0\ExcepcionesPersonalizadas.runtimeconfig.dev.json
+C:\Users\Bioxor\source\repos\Csharp Curso\ExcepcionesPersonalizadas\bin\Debug\net5.0\ExcepcionesPersonalizadas.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\ExcepcionesPersonalizadas\bin\Debug\net5.0\ref\ExcepcionesPersonalizadas.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\ExcepcionesPersonalizadas\bin\Debug\net5.0\ExcepcionesPersonalizadas.pdb
+C:\Users\Bioxor\source\repos\Csharp Curso\ExcepcionesPersonalizadas\obj\Debug\net5.0\ExcepcionesPersonalizadas.csproj.AssemblyReference.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\ExcepcionesPersonalizadas\obj\Debug\net5.0\ExcepcionesPersonalizadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bioxor\source\repos\Csharp Curso\ExcepcionesPersonalizadas\obj\Debug\net5.0\ExcepcionesPersonalizadas.AssemblyInfoInputs.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\ExcepcionesPersonalizadas\obj\Debug\net5.0\ExcepcionesPersonalizadas.AssemblyInfo.cs
+C:\Users\Bioxor\source\repos\Csharp Curso\ExcepcionesPersonalizadas\obj\Debug\net5.0\ExcepcionesPersonalizadas.csproj.CoreCompileInputs.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\ExcepcionesPersonalizadas\obj\Debug\net5.0\ExcepcionesPersonalizadas.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\ExcepcionesPersonalizadas\obj\Debug\net5.0\ref\ExcepcionesPersonalizadas.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\ExcepcionesPersonalizadas\obj\Debug\net5.0\ExcepcionesPersonalizadas.pdb
+C:\Users\Bioxor\source\repos\Csharp Curso\ExcepcionesPersonalizadas\obj\Debug\net5.0\ExcepcionesPersonalizadas.genruntimeconfig.cache

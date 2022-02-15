@@ -1,0 +1,15 @@
+C:\Users\Bioxor\source\repos\Csharp Curso\FunctionalProgramming\bin\Debug\net6.0\FunctionalProgramming.exe
+C:\Users\Bioxor\source\repos\Csharp Curso\FunctionalProgramming\bin\Debug\net6.0\FunctionalProgramming.deps.json
+C:\Users\Bioxor\source\repos\Csharp Curso\FunctionalProgramming\bin\Debug\net6.0\FunctionalProgramming.runtimeconfig.json
+C:\Users\Bioxor\source\repos\Csharp Curso\FunctionalProgramming\bin\Debug\net6.0\FunctionalProgramming.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\FunctionalProgramming\bin\Debug\net6.0\ref\FunctionalProgramming.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\FunctionalProgramming\bin\Debug\net6.0\FunctionalProgramming.pdb
+C:\Users\Bioxor\source\repos\Csharp Curso\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.csproj.AssemblyReference.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bioxor\source\repos\Csharp Curso\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.AssemblyInfoInputs.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.AssemblyInfo.cs
+C:\Users\Bioxor\source\repos\Csharp Curso\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.csproj.CoreCompileInputs.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\FunctionalProgramming\obj\Debug\net6.0\ref\FunctionalProgramming.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.pdb
+C:\Users\Bioxor\source\repos\Csharp Curso\FunctionalProgramming\obj\Debug\net6.0\FunctionalProgramming.genruntimeconfig.cache

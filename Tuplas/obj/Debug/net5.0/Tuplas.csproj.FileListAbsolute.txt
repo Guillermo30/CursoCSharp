@@ -1,0 +1,32 @@
+C:\Users\Bioxor\source\repos\Variables\Tuplas\bin\Debug\net5.0\Tuplas.exe
+C:\Users\Bioxor\source\repos\Variables\Tuplas\bin\Debug\net5.0\Tuplas.deps.json
+C:\Users\Bioxor\source\repos\Variables\Tuplas\bin\Debug\net5.0\Tuplas.runtimeconfig.json
+C:\Users\Bioxor\source\repos\Variables\Tuplas\bin\Debug\net5.0\Tuplas.runtimeconfig.dev.json
+C:\Users\Bioxor\source\repos\Variables\Tuplas\bin\Debug\net5.0\Tuplas.dll
+C:\Users\Bioxor\source\repos\Variables\Tuplas\bin\Debug\net5.0\ref\Tuplas.dll
+C:\Users\Bioxor\source\repos\Variables\Tuplas\bin\Debug\net5.0\Tuplas.pdb
+C:\Users\Bioxor\source\repos\Variables\Tuplas\obj\Debug\net5.0\Tuplas.csproj.AssemblyReference.cache
+C:\Users\Bioxor\source\repos\Variables\Tuplas\obj\Debug\net5.0\Tuplas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bioxor\source\repos\Variables\Tuplas\obj\Debug\net5.0\Tuplas.AssemblyInfoInputs.cache
+C:\Users\Bioxor\source\repos\Variables\Tuplas\obj\Debug\net5.0\Tuplas.AssemblyInfo.cs
+C:\Users\Bioxor\source\repos\Variables\Tuplas\obj\Debug\net5.0\Tuplas.csproj.CoreCompileInputs.cache
+C:\Users\Bioxor\source\repos\Variables\Tuplas\obj\Debug\net5.0\Tuplas.dll
+C:\Users\Bioxor\source\repos\Variables\Tuplas\obj\Debug\net5.0\ref\Tuplas.dll
+C:\Users\Bioxor\source\repos\Variables\Tuplas\obj\Debug\net5.0\Tuplas.pdb
+C:\Users\Bioxor\source\repos\Variables\Tuplas\obj\Debug\net5.0\Tuplas.genruntimeconfig.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\Tuplas\bin\Debug\net5.0\Tuplas.exe
+C:\Users\Bioxor\source\repos\Csharp Curso\Tuplas\bin\Debug\net5.0\Tuplas.deps.json
+C:\Users\Bioxor\source\repos\Csharp Curso\Tuplas\bin\Debug\net5.0\Tuplas.runtimeconfig.json
+C:\Users\Bioxor\source\repos\Csharp Curso\Tuplas\bin\Debug\net5.0\Tuplas.runtimeconfig.dev.json
+C:\Users\Bioxor\source\repos\Csharp Curso\Tuplas\bin\Debug\net5.0\Tuplas.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\Tuplas\bin\Debug\net5.0\ref\Tuplas.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\Tuplas\bin\Debug\net5.0\Tuplas.pdb
+C:\Users\Bioxor\source\repos\Csharp Curso\Tuplas\obj\Debug\net5.0\Tuplas.csproj.AssemblyReference.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\Tuplas\obj\Debug\net5.0\Tuplas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bioxor\source\repos\Csharp Curso\Tuplas\obj\Debug\net5.0\Tuplas.AssemblyInfoInputs.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\Tuplas\obj\Debug\net5.0\Tuplas.AssemblyInfo.cs
+C:\Users\Bioxor\source\repos\Csharp Curso\Tuplas\obj\Debug\net5.0\Tuplas.csproj.CoreCompileInputs.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\Tuplas\obj\Debug\net5.0\Tuplas.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\Tuplas\obj\Debug\net5.0\ref\Tuplas.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\Tuplas\obj\Debug\net5.0\Tuplas.pdb
+C:\Users\Bioxor\source\repos\Csharp Curso\Tuplas\obj\Debug\net5.0\Tuplas.genruntimeconfig.cache

@@ -1,0 +1,32 @@
+C:\Users\Bioxor\source\repos\Variables\Propiedades\bin\Debug\net5.0\Propiedades.exe
+C:\Users\Bioxor\source\repos\Variables\Propiedades\bin\Debug\net5.0\Propiedades.deps.json
+C:\Users\Bioxor\source\repos\Variables\Propiedades\bin\Debug\net5.0\Propiedades.runtimeconfig.json
+C:\Users\Bioxor\source\repos\Variables\Propiedades\bin\Debug\net5.0\Propiedades.runtimeconfig.dev.json
+C:\Users\Bioxor\source\repos\Variables\Propiedades\bin\Debug\net5.0\Propiedades.dll
+C:\Users\Bioxor\source\repos\Variables\Propiedades\bin\Debug\net5.0\ref\Propiedades.dll
+C:\Users\Bioxor\source\repos\Variables\Propiedades\bin\Debug\net5.0\Propiedades.pdb
+C:\Users\Bioxor\source\repos\Variables\Propiedades\obj\Debug\net5.0\Propiedades.csproj.AssemblyReference.cache
+C:\Users\Bioxor\source\repos\Variables\Propiedades\obj\Debug\net5.0\Propiedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bioxor\source\repos\Variables\Propiedades\obj\Debug\net5.0\Propiedades.AssemblyInfoInputs.cache
+C:\Users\Bioxor\source\repos\Variables\Propiedades\obj\Debug\net5.0\Propiedades.AssemblyInfo.cs
+C:\Users\Bioxor\source\repos\Variables\Propiedades\obj\Debug\net5.0\Propiedades.csproj.CoreCompileInputs.cache
+C:\Users\Bioxor\source\repos\Variables\Propiedades\obj\Debug\net5.0\Propiedades.dll
+C:\Users\Bioxor\source\repos\Variables\Propiedades\obj\Debug\net5.0\ref\Propiedades.dll
+C:\Users\Bioxor\source\repos\Variables\Propiedades\obj\Debug\net5.0\Propiedades.pdb
+C:\Users\Bioxor\source\repos\Variables\Propiedades\obj\Debug\net5.0\Propiedades.genruntimeconfig.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\Propiedades\bin\Debug\net5.0\Propiedades.exe
+C:\Users\Bioxor\source\repos\Csharp Curso\Propiedades\bin\Debug\net5.0\Propiedades.deps.json
+C:\Users\Bioxor\source\repos\Csharp Curso\Propiedades\bin\Debug\net5.0\Propiedades.runtimeconfig.json
+C:\Users\Bioxor\source\repos\Csharp Curso\Propiedades\bin\Debug\net5.0\Propiedades.runtimeconfig.dev.json
+C:\Users\Bioxor\source\repos\Csharp Curso\Propiedades\bin\Debug\net5.0\Propiedades.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\Propiedades\bin\Debug\net5.0\ref\Propiedades.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\Propiedades\bin\Debug\net5.0\Propiedades.pdb
+C:\Users\Bioxor\source\repos\Csharp Curso\Propiedades\obj\Debug\net5.0\Propiedades.csproj.AssemblyReference.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\Propiedades\obj\Debug\net5.0\Propiedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bioxor\source\repos\Csharp Curso\Propiedades\obj\Debug\net5.0\Propiedades.AssemblyInfoInputs.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\Propiedades\obj\Debug\net5.0\Propiedades.AssemblyInfo.cs
+C:\Users\Bioxor\source\repos\Csharp Curso\Propiedades\obj\Debug\net5.0\Propiedades.csproj.CoreCompileInputs.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\Propiedades\obj\Debug\net5.0\Propiedades.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\Propiedades\obj\Debug\net5.0\ref\Propiedades.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\Propiedades\obj\Debug\net5.0\Propiedades.pdb
+C:\Users\Bioxor\source\repos\Csharp Curso\Propiedades\obj\Debug\net5.0\Propiedades.genruntimeconfig.cache

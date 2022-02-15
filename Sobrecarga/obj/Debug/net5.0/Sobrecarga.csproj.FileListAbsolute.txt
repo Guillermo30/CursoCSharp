@@ -1,0 +1,31 @@
+C:\Users\Bioxor\source\repos\Variables\Sobrecarga\bin\Debug\net5.0\Sobrecarga.exe
+C:\Users\Bioxor\source\repos\Variables\Sobrecarga\bin\Debug\net5.0\Sobrecarga.deps.json
+C:\Users\Bioxor\source\repos\Variables\Sobrecarga\bin\Debug\net5.0\Sobrecarga.runtimeconfig.json
+C:\Users\Bioxor\source\repos\Variables\Sobrecarga\bin\Debug\net5.0\Sobrecarga.runtimeconfig.dev.json
+C:\Users\Bioxor\source\repos\Variables\Sobrecarga\bin\Debug\net5.0\Sobrecarga.dll
+C:\Users\Bioxor\source\repos\Variables\Sobrecarga\bin\Debug\net5.0\ref\Sobrecarga.dll
+C:\Users\Bioxor\source\repos\Variables\Sobrecarga\bin\Debug\net5.0\Sobrecarga.pdb
+C:\Users\Bioxor\source\repos\Variables\Sobrecarga\obj\Debug\net5.0\Sobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bioxor\source\repos\Variables\Sobrecarga\obj\Debug\net5.0\Sobrecarga.AssemblyInfoInputs.cache
+C:\Users\Bioxor\source\repos\Variables\Sobrecarga\obj\Debug\net5.0\Sobrecarga.AssemblyInfo.cs
+C:\Users\Bioxor\source\repos\Variables\Sobrecarga\obj\Debug\net5.0\Sobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\Bioxor\source\repos\Variables\Sobrecarga\obj\Debug\net5.0\Sobrecarga.dll
+C:\Users\Bioxor\source\repos\Variables\Sobrecarga\obj\Debug\net5.0\ref\Sobrecarga.dll
+C:\Users\Bioxor\source\repos\Variables\Sobrecarga\obj\Debug\net5.0\Sobrecarga.pdb
+C:\Users\Bioxor\source\repos\Variables\Sobrecarga\obj\Debug\net5.0\Sobrecarga.genruntimeconfig.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\Sobrecarga\bin\Debug\net5.0\Sobrecarga.exe
+C:\Users\Bioxor\source\repos\Csharp Curso\Sobrecarga\bin\Debug\net5.0\Sobrecarga.deps.json
+C:\Users\Bioxor\source\repos\Csharp Curso\Sobrecarga\bin\Debug\net5.0\Sobrecarga.runtimeconfig.json
+C:\Users\Bioxor\source\repos\Csharp Curso\Sobrecarga\bin\Debug\net5.0\Sobrecarga.runtimeconfig.dev.json
+C:\Users\Bioxor\source\repos\Csharp Curso\Sobrecarga\bin\Debug\net5.0\Sobrecarga.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\Sobrecarga\bin\Debug\net5.0\ref\Sobrecarga.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\Sobrecarga\bin\Debug\net5.0\Sobrecarga.pdb
+C:\Users\Bioxor\source\repos\Csharp Curso\Sobrecarga\obj\Debug\net5.0\Sobrecarga.csproj.AssemblyReference.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\Sobrecarga\obj\Debug\net5.0\Sobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bioxor\source\repos\Csharp Curso\Sobrecarga\obj\Debug\net5.0\Sobrecarga.AssemblyInfoInputs.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\Sobrecarga\obj\Debug\net5.0\Sobrecarga.AssemblyInfo.cs
+C:\Users\Bioxor\source\repos\Csharp Curso\Sobrecarga\obj\Debug\net5.0\Sobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\Sobrecarga\obj\Debug\net5.0\Sobrecarga.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\Sobrecarga\obj\Debug\net5.0\ref\Sobrecarga.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\Sobrecarga\obj\Debug\net5.0\Sobrecarga.pdb
+C:\Users\Bioxor\source\repos\Csharp Curso\Sobrecarga\obj\Debug\net5.0\Sobrecarga.genruntimeconfig.cache

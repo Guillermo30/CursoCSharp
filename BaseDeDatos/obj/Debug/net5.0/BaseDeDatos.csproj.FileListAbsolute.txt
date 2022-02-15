@@ -1,0 +1,46 @@
+C:\Users\Bioxor\source\repos\Variables\BaseDeDatos\bin\Debug\net5.0\BaseDeDatos.exe
+C:\Users\Bioxor\source\repos\Variables\BaseDeDatos\bin\Debug\net5.0\BaseDeDatos.deps.json
+C:\Users\Bioxor\source\repos\Variables\BaseDeDatos\bin\Debug\net5.0\BaseDeDatos.runtimeconfig.json
+C:\Users\Bioxor\source\repos\Variables\BaseDeDatos\bin\Debug\net5.0\BaseDeDatos.runtimeconfig.dev.json
+C:\Users\Bioxor\source\repos\Variables\BaseDeDatos\bin\Debug\net5.0\BaseDeDatos.dll
+C:\Users\Bioxor\source\repos\Variables\BaseDeDatos\bin\Debug\net5.0\ref\BaseDeDatos.dll
+C:\Users\Bioxor\source\repos\Variables\BaseDeDatos\bin\Debug\net5.0\BaseDeDatos.pdb
+C:\Users\Bioxor\source\repos\Variables\BaseDeDatos\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Bioxor\source\repos\Variables\BaseDeDatos\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Bioxor\source\repos\Variables\BaseDeDatos\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Bioxor\source\repos\Variables\BaseDeDatos\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Bioxor\source\repos\Variables\BaseDeDatos\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Bioxor\source\repos\Variables\BaseDeDatos\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Bioxor\source\repos\Variables\BaseDeDatos\obj\Debug\net5.0\BaseDeDatos.csproj.AssemblyReference.cache
+C:\Users\Bioxor\source\repos\Variables\BaseDeDatos\obj\Debug\net5.0\BaseDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bioxor\source\repos\Variables\BaseDeDatos\obj\Debug\net5.0\BaseDeDatos.AssemblyInfoInputs.cache
+C:\Users\Bioxor\source\repos\Variables\BaseDeDatos\obj\Debug\net5.0\BaseDeDatos.AssemblyInfo.cs
+C:\Users\Bioxor\source\repos\Variables\BaseDeDatos\obj\Debug\net5.0\BaseDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Bioxor\source\repos\Variables\BaseDeDatos\obj\Debug\net5.0\BaseDeDatos.csproj.CopyComplete
+C:\Users\Bioxor\source\repos\Variables\BaseDeDatos\obj\Debug\net5.0\BaseDeDatos.dll
+C:\Users\Bioxor\source\repos\Variables\BaseDeDatos\obj\Debug\net5.0\ref\BaseDeDatos.dll
+C:\Users\Bioxor\source\repos\Variables\BaseDeDatos\obj\Debug\net5.0\BaseDeDatos.pdb
+C:\Users\Bioxor\source\repos\Variables\BaseDeDatos\obj\Debug\net5.0\BaseDeDatos.genruntimeconfig.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\BaseDeDatos\bin\Debug\net5.0\BaseDeDatos.exe
+C:\Users\Bioxor\source\repos\Csharp Curso\BaseDeDatos\bin\Debug\net5.0\BaseDeDatos.deps.json
+C:\Users\Bioxor\source\repos\Csharp Curso\BaseDeDatos\bin\Debug\net5.0\BaseDeDatos.runtimeconfig.json
+C:\Users\Bioxor\source\repos\Csharp Curso\BaseDeDatos\bin\Debug\net5.0\BaseDeDatos.runtimeconfig.dev.json
+C:\Users\Bioxor\source\repos\Csharp Curso\BaseDeDatos\bin\Debug\net5.0\BaseDeDatos.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\BaseDeDatos\bin\Debug\net5.0\ref\BaseDeDatos.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\BaseDeDatos\bin\Debug\net5.0\BaseDeDatos.pdb
+C:\Users\Bioxor\source\repos\Csharp Curso\BaseDeDatos\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\BaseDeDatos\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\BaseDeDatos\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\BaseDeDatos\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\BaseDeDatos\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\BaseDeDatos\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\BaseDeDatos\obj\Debug\net5.0\BaseDeDatos.csproj.AssemblyReference.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\BaseDeDatos\obj\Debug\net5.0\BaseDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bioxor\source\repos\Csharp Curso\BaseDeDatos\obj\Debug\net5.0\BaseDeDatos.AssemblyInfoInputs.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\BaseDeDatos\obj\Debug\net5.0\BaseDeDatos.AssemblyInfo.cs
+C:\Users\Bioxor\source\repos\Csharp Curso\BaseDeDatos\obj\Debug\net5.0\BaseDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\BaseDeDatos\obj\Debug\net5.0\BaseDeDatos.csproj.CopyComplete
+C:\Users\Bioxor\source\repos\Csharp Curso\BaseDeDatos\obj\Debug\net5.0\BaseDeDatos.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\BaseDeDatos\obj\Debug\net5.0\ref\BaseDeDatos.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\BaseDeDatos\obj\Debug\net5.0\BaseDeDatos.pdb
+C:\Users\Bioxor\source\repos\Csharp Curso\BaseDeDatos\obj\Debug\net5.0\BaseDeDatos.genruntimeconfig.cache

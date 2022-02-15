@@ -1,0 +1,32 @@
+C:\Users\Bioxor\source\repos\Variables\Sobreescritura\bin\Debug\net5.0\Sobreescritura.exe
+C:\Users\Bioxor\source\repos\Variables\Sobreescritura\bin\Debug\net5.0\Sobreescritura.deps.json
+C:\Users\Bioxor\source\repos\Variables\Sobreescritura\bin\Debug\net5.0\Sobreescritura.runtimeconfig.json
+C:\Users\Bioxor\source\repos\Variables\Sobreescritura\bin\Debug\net5.0\Sobreescritura.runtimeconfig.dev.json
+C:\Users\Bioxor\source\repos\Variables\Sobreescritura\bin\Debug\net5.0\Sobreescritura.dll
+C:\Users\Bioxor\source\repos\Variables\Sobreescritura\bin\Debug\net5.0\ref\Sobreescritura.dll
+C:\Users\Bioxor\source\repos\Variables\Sobreescritura\bin\Debug\net5.0\Sobreescritura.pdb
+C:\Users\Bioxor\source\repos\Variables\Sobreescritura\obj\Debug\net5.0\Sobreescritura.csproj.AssemblyReference.cache
+C:\Users\Bioxor\source\repos\Variables\Sobreescritura\obj\Debug\net5.0\Sobreescritura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bioxor\source\repos\Variables\Sobreescritura\obj\Debug\net5.0\Sobreescritura.AssemblyInfoInputs.cache
+C:\Users\Bioxor\source\repos\Variables\Sobreescritura\obj\Debug\net5.0\Sobreescritura.AssemblyInfo.cs
+C:\Users\Bioxor\source\repos\Variables\Sobreescritura\obj\Debug\net5.0\Sobreescritura.csproj.CoreCompileInputs.cache
+C:\Users\Bioxor\source\repos\Variables\Sobreescritura\obj\Debug\net5.0\Sobreescritura.dll
+C:\Users\Bioxor\source\repos\Variables\Sobreescritura\obj\Debug\net5.0\ref\Sobreescritura.dll
+C:\Users\Bioxor\source\repos\Variables\Sobreescritura\obj\Debug\net5.0\Sobreescritura.pdb
+C:\Users\Bioxor\source\repos\Variables\Sobreescritura\obj\Debug\net5.0\Sobreescritura.genruntimeconfig.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\Sobreescritura\bin\Debug\net5.0\Sobreescritura.exe
+C:\Users\Bioxor\source\repos\Csharp Curso\Sobreescritura\bin\Debug\net5.0\Sobreescritura.deps.json
+C:\Users\Bioxor\source\repos\Csharp Curso\Sobreescritura\bin\Debug\net5.0\Sobreescritura.runtimeconfig.json
+C:\Users\Bioxor\source\repos\Csharp Curso\Sobreescritura\bin\Debug\net5.0\Sobreescritura.runtimeconfig.dev.json
+C:\Users\Bioxor\source\repos\Csharp Curso\Sobreescritura\bin\Debug\net5.0\Sobreescritura.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\Sobreescritura\bin\Debug\net5.0\ref\Sobreescritura.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\Sobreescritura\bin\Debug\net5.0\Sobreescritura.pdb
+C:\Users\Bioxor\source\repos\Csharp Curso\Sobreescritura\obj\Debug\net5.0\Sobreescritura.csproj.AssemblyReference.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\Sobreescritura\obj\Debug\net5.0\Sobreescritura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bioxor\source\repos\Csharp Curso\Sobreescritura\obj\Debug\net5.0\Sobreescritura.AssemblyInfoInputs.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\Sobreescritura\obj\Debug\net5.0\Sobreescritura.AssemblyInfo.cs
+C:\Users\Bioxor\source\repos\Csharp Curso\Sobreescritura\obj\Debug\net5.0\Sobreescritura.csproj.CoreCompileInputs.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\Sobreescritura\obj\Debug\net5.0\Sobreescritura.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\Sobreescritura\obj\Debug\net5.0\ref\Sobreescritura.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\Sobreescritura\obj\Debug\net5.0\Sobreescritura.pdb
+C:\Users\Bioxor\source\repos\Csharp Curso\Sobreescritura\obj\Debug\net5.0\Sobreescritura.genruntimeconfig.cache

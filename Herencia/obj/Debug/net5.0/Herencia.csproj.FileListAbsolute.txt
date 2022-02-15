@@ -1,0 +1,31 @@
+C:\Users\Bioxor\source\repos\Variables\Herencia\bin\Debug\net5.0\Herencia.exe
+C:\Users\Bioxor\source\repos\Variables\Herencia\bin\Debug\net5.0\Herencia.deps.json
+C:\Users\Bioxor\source\repos\Variables\Herencia\bin\Debug\net5.0\Herencia.runtimeconfig.json
+C:\Users\Bioxor\source\repos\Variables\Herencia\bin\Debug\net5.0\Herencia.runtimeconfig.dev.json
+C:\Users\Bioxor\source\repos\Variables\Herencia\bin\Debug\net5.0\Herencia.dll
+C:\Users\Bioxor\source\repos\Variables\Herencia\bin\Debug\net5.0\ref\Herencia.dll
+C:\Users\Bioxor\source\repos\Variables\Herencia\bin\Debug\net5.0\Herencia.pdb
+C:\Users\Bioxor\source\repos\Variables\Herencia\obj\Debug\net5.0\Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bioxor\source\repos\Variables\Herencia\obj\Debug\net5.0\Herencia.AssemblyInfoInputs.cache
+C:\Users\Bioxor\source\repos\Variables\Herencia\obj\Debug\net5.0\Herencia.AssemblyInfo.cs
+C:\Users\Bioxor\source\repos\Variables\Herencia\obj\Debug\net5.0\Herencia.csproj.CoreCompileInputs.cache
+C:\Users\Bioxor\source\repos\Variables\Herencia\obj\Debug\net5.0\Herencia.dll
+C:\Users\Bioxor\source\repos\Variables\Herencia\obj\Debug\net5.0\ref\Herencia.dll
+C:\Users\Bioxor\source\repos\Variables\Herencia\obj\Debug\net5.0\Herencia.pdb
+C:\Users\Bioxor\source\repos\Variables\Herencia\obj\Debug\net5.0\Herencia.genruntimeconfig.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\Herencia\bin\Debug\net5.0\Herencia.exe
+C:\Users\Bioxor\source\repos\Csharp Curso\Herencia\bin\Debug\net5.0\Herencia.deps.json
+C:\Users\Bioxor\source\repos\Csharp Curso\Herencia\bin\Debug\net5.0\Herencia.runtimeconfig.json
+C:\Users\Bioxor\source\repos\Csharp Curso\Herencia\bin\Debug\net5.0\Herencia.runtimeconfig.dev.json
+C:\Users\Bioxor\source\repos\Csharp Curso\Herencia\bin\Debug\net5.0\Herencia.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\Herencia\bin\Debug\net5.0\ref\Herencia.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\Herencia\bin\Debug\net5.0\Herencia.pdb
+C:\Users\Bioxor\source\repos\Csharp Curso\Herencia\obj\Debug\net5.0\Herencia.csproj.AssemblyReference.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\Herencia\obj\Debug\net5.0\Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bioxor\source\repos\Csharp Curso\Herencia\obj\Debug\net5.0\Herencia.AssemblyInfoInputs.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\Herencia\obj\Debug\net5.0\Herencia.AssemblyInfo.cs
+C:\Users\Bioxor\source\repos\Csharp Curso\Herencia\obj\Debug\net5.0\Herencia.csproj.CoreCompileInputs.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\Herencia\obj\Debug\net5.0\Herencia.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\Herencia\obj\Debug\net5.0\ref\Herencia.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\Herencia\obj\Debug\net5.0\Herencia.pdb
+C:\Users\Bioxor\source\repos\Csharp Curso\Herencia\obj\Debug\net5.0\Herencia.genruntimeconfig.cache

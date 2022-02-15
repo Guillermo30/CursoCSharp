@@ -1,0 +1,32 @@
+C:\Users\Bioxor\source\repos\Variables\ListCommonMethods\bin\Debug\net5.0\ListCommonMethods.exe
+C:\Users\Bioxor\source\repos\Variables\ListCommonMethods\bin\Debug\net5.0\ListCommonMethods.deps.json
+C:\Users\Bioxor\source\repos\Variables\ListCommonMethods\bin\Debug\net5.0\ListCommonMethods.runtimeconfig.json
+C:\Users\Bioxor\source\repos\Variables\ListCommonMethods\bin\Debug\net5.0\ListCommonMethods.runtimeconfig.dev.json
+C:\Users\Bioxor\source\repos\Variables\ListCommonMethods\bin\Debug\net5.0\ListCommonMethods.dll
+C:\Users\Bioxor\source\repos\Variables\ListCommonMethods\bin\Debug\net5.0\ref\ListCommonMethods.dll
+C:\Users\Bioxor\source\repos\Variables\ListCommonMethods\bin\Debug\net5.0\ListCommonMethods.pdb
+C:\Users\Bioxor\source\repos\Variables\ListCommonMethods\obj\Debug\net5.0\ListCommonMethods.csproj.AssemblyReference.cache
+C:\Users\Bioxor\source\repos\Variables\ListCommonMethods\obj\Debug\net5.0\ListCommonMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bioxor\source\repos\Variables\ListCommonMethods\obj\Debug\net5.0\ListCommonMethods.AssemblyInfoInputs.cache
+C:\Users\Bioxor\source\repos\Variables\ListCommonMethods\obj\Debug\net5.0\ListCommonMethods.AssemblyInfo.cs
+C:\Users\Bioxor\source\repos\Variables\ListCommonMethods\obj\Debug\net5.0\ListCommonMethods.csproj.CoreCompileInputs.cache
+C:\Users\Bioxor\source\repos\Variables\ListCommonMethods\obj\Debug\net5.0\ListCommonMethods.dll
+C:\Users\Bioxor\source\repos\Variables\ListCommonMethods\obj\Debug\net5.0\ref\ListCommonMethods.dll
+C:\Users\Bioxor\source\repos\Variables\ListCommonMethods\obj\Debug\net5.0\ListCommonMethods.pdb
+C:\Users\Bioxor\source\repos\Variables\ListCommonMethods\obj\Debug\net5.0\ListCommonMethods.genruntimeconfig.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\ListCommonMethods\bin\Debug\net5.0\ListCommonMethods.exe
+C:\Users\Bioxor\source\repos\Csharp Curso\ListCommonMethods\bin\Debug\net5.0\ListCommonMethods.deps.json
+C:\Users\Bioxor\source\repos\Csharp Curso\ListCommonMethods\bin\Debug\net5.0\ListCommonMethods.runtimeconfig.json
+C:\Users\Bioxor\source\repos\Csharp Curso\ListCommonMethods\bin\Debug\net5.0\ListCommonMethods.runtimeconfig.dev.json
+C:\Users\Bioxor\source\repos\Csharp Curso\ListCommonMethods\bin\Debug\net5.0\ListCommonMethods.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\ListCommonMethods\bin\Debug\net5.0\ref\ListCommonMethods.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\ListCommonMethods\bin\Debug\net5.0\ListCommonMethods.pdb
+C:\Users\Bioxor\source\repos\Csharp Curso\ListCommonMethods\obj\Debug\net5.0\ListCommonMethods.csproj.AssemblyReference.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\ListCommonMethods\obj\Debug\net5.0\ListCommonMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bioxor\source\repos\Csharp Curso\ListCommonMethods\obj\Debug\net5.0\ListCommonMethods.AssemblyInfoInputs.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\ListCommonMethods\obj\Debug\net5.0\ListCommonMethods.AssemblyInfo.cs
+C:\Users\Bioxor\source\repos\Csharp Curso\ListCommonMethods\obj\Debug\net5.0\ListCommonMethods.csproj.CoreCompileInputs.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\ListCommonMethods\obj\Debug\net5.0\ListCommonMethods.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\ListCommonMethods\obj\Debug\net5.0\ref\ListCommonMethods.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\ListCommonMethods\obj\Debug\net5.0\ListCommonMethods.pdb
+C:\Users\Bioxor\source\repos\Csharp Curso\ListCommonMethods\obj\Debug\net5.0\ListCommonMethods.genruntimeconfig.cache

@@ -1,0 +1,32 @@
+C:\Users\Bioxor\source\repos\Variables\While\bin\Debug\net5.0\While.exe
+C:\Users\Bioxor\source\repos\Variables\While\bin\Debug\net5.0\While.deps.json
+C:\Users\Bioxor\source\repos\Variables\While\bin\Debug\net5.0\While.runtimeconfig.json
+C:\Users\Bioxor\source\repos\Variables\While\bin\Debug\net5.0\While.runtimeconfig.dev.json
+C:\Users\Bioxor\source\repos\Variables\While\bin\Debug\net5.0\While.dll
+C:\Users\Bioxor\source\repos\Variables\While\bin\Debug\net5.0\ref\While.dll
+C:\Users\Bioxor\source\repos\Variables\While\bin\Debug\net5.0\While.pdb
+C:\Users\Bioxor\source\repos\Variables\While\obj\Debug\net5.0\While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bioxor\source\repos\Variables\While\obj\Debug\net5.0\While.AssemblyInfoInputs.cache
+C:\Users\Bioxor\source\repos\Variables\While\obj\Debug\net5.0\While.AssemblyInfo.cs
+C:\Users\Bioxor\source\repos\Variables\While\obj\Debug\net5.0\While.csproj.CoreCompileInputs.cache
+C:\Users\Bioxor\source\repos\Variables\While\obj\Debug\net5.0\While.dll
+C:\Users\Bioxor\source\repos\Variables\While\obj\Debug\net5.0\ref\While.dll
+C:\Users\Bioxor\source\repos\Variables\While\obj\Debug\net5.0\While.pdb
+C:\Users\Bioxor\source\repos\Variables\While\obj\Debug\net5.0\While.genruntimeconfig.cache
+C:\Users\Bioxor\source\repos\Variables\While\obj\Debug\net5.0\While.csproj.AssemblyReference.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\While\bin\Debug\net5.0\While.exe
+C:\Users\Bioxor\source\repos\Csharp Curso\While\bin\Debug\net5.0\While.deps.json
+C:\Users\Bioxor\source\repos\Csharp Curso\While\bin\Debug\net5.0\While.runtimeconfig.json
+C:\Users\Bioxor\source\repos\Csharp Curso\While\bin\Debug\net5.0\While.runtimeconfig.dev.json
+C:\Users\Bioxor\source\repos\Csharp Curso\While\bin\Debug\net5.0\While.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\While\bin\Debug\net5.0\ref\While.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\While\bin\Debug\net5.0\While.pdb
+C:\Users\Bioxor\source\repos\Csharp Curso\While\obj\Debug\net5.0\While.csproj.AssemblyReference.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\While\obj\Debug\net5.0\While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bioxor\source\repos\Csharp Curso\While\obj\Debug\net5.0\While.AssemblyInfoInputs.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\While\obj\Debug\net5.0\While.AssemblyInfo.cs
+C:\Users\Bioxor\source\repos\Csharp Curso\While\obj\Debug\net5.0\While.csproj.CoreCompileInputs.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\While\obj\Debug\net5.0\While.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\While\obj\Debug\net5.0\ref\While.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\While\obj\Debug\net5.0\While.pdb
+C:\Users\Bioxor\source\repos\Csharp Curso\While\obj\Debug\net5.0\While.genruntimeconfig.cache

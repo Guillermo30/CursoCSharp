@@ -1,0 +1,32 @@
+C:\Users\Bioxor\source\repos\Variables\TiposAnonimos\bin\Debug\net5.0\TiposAnonimos.exe
+C:\Users\Bioxor\source\repos\Variables\TiposAnonimos\bin\Debug\net5.0\TiposAnonimos.deps.json
+C:\Users\Bioxor\source\repos\Variables\TiposAnonimos\bin\Debug\net5.0\TiposAnonimos.runtimeconfig.json
+C:\Users\Bioxor\source\repos\Variables\TiposAnonimos\bin\Debug\net5.0\TiposAnonimos.runtimeconfig.dev.json
+C:\Users\Bioxor\source\repos\Variables\TiposAnonimos\bin\Debug\net5.0\TiposAnonimos.dll
+C:\Users\Bioxor\source\repos\Variables\TiposAnonimos\bin\Debug\net5.0\ref\TiposAnonimos.dll
+C:\Users\Bioxor\source\repos\Variables\TiposAnonimos\bin\Debug\net5.0\TiposAnonimos.pdb
+C:\Users\Bioxor\source\repos\Variables\TiposAnonimos\obj\Debug\net5.0\TiposAnonimos.csproj.AssemblyReference.cache
+C:\Users\Bioxor\source\repos\Variables\TiposAnonimos\obj\Debug\net5.0\TiposAnonimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bioxor\source\repos\Variables\TiposAnonimos\obj\Debug\net5.0\TiposAnonimos.AssemblyInfoInputs.cache
+C:\Users\Bioxor\source\repos\Variables\TiposAnonimos\obj\Debug\net5.0\TiposAnonimos.AssemblyInfo.cs
+C:\Users\Bioxor\source\repos\Variables\TiposAnonimos\obj\Debug\net5.0\TiposAnonimos.csproj.CoreCompileInputs.cache
+C:\Users\Bioxor\source\repos\Variables\TiposAnonimos\obj\Debug\net5.0\TiposAnonimos.dll
+C:\Users\Bioxor\source\repos\Variables\TiposAnonimos\obj\Debug\net5.0\ref\TiposAnonimos.dll
+C:\Users\Bioxor\source\repos\Variables\TiposAnonimos\obj\Debug\net5.0\TiposAnonimos.pdb
+C:\Users\Bioxor\source\repos\Variables\TiposAnonimos\obj\Debug\net5.0\TiposAnonimos.genruntimeconfig.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\TiposAnonimos\bin\Debug\net5.0\TiposAnonimos.exe
+C:\Users\Bioxor\source\repos\Csharp Curso\TiposAnonimos\bin\Debug\net5.0\TiposAnonimos.deps.json
+C:\Users\Bioxor\source\repos\Csharp Curso\TiposAnonimos\bin\Debug\net5.0\TiposAnonimos.runtimeconfig.json
+C:\Users\Bioxor\source\repos\Csharp Curso\TiposAnonimos\bin\Debug\net5.0\TiposAnonimos.runtimeconfig.dev.json
+C:\Users\Bioxor\source\repos\Csharp Curso\TiposAnonimos\bin\Debug\net5.0\TiposAnonimos.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\TiposAnonimos\bin\Debug\net5.0\ref\TiposAnonimos.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\TiposAnonimos\bin\Debug\net5.0\TiposAnonimos.pdb
+C:\Users\Bioxor\source\repos\Csharp Curso\TiposAnonimos\obj\Debug\net5.0\TiposAnonimos.csproj.AssemblyReference.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\TiposAnonimos\obj\Debug\net5.0\TiposAnonimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bioxor\source\repos\Csharp Curso\TiposAnonimos\obj\Debug\net5.0\TiposAnonimos.AssemblyInfoInputs.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\TiposAnonimos\obj\Debug\net5.0\TiposAnonimos.AssemblyInfo.cs
+C:\Users\Bioxor\source\repos\Csharp Curso\TiposAnonimos\obj\Debug\net5.0\TiposAnonimos.csproj.CoreCompileInputs.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\TiposAnonimos\obj\Debug\net5.0\TiposAnonimos.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\TiposAnonimos\obj\Debug\net5.0\ref\TiposAnonimos.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\TiposAnonimos\obj\Debug\net5.0\TiposAnonimos.pdb
+C:\Users\Bioxor\source\repos\Csharp Curso\TiposAnonimos\obj\Debug\net5.0\TiposAnonimos.genruntimeconfig.cache

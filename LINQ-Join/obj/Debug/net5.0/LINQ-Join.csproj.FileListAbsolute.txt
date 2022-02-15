@@ -1,0 +1,32 @@
+C:\Users\Bioxor\source\repos\Variables\LINQ-Join\bin\Debug\net5.0\LINQ-Join.exe
+C:\Users\Bioxor\source\repos\Variables\LINQ-Join\bin\Debug\net5.0\LINQ-Join.deps.json
+C:\Users\Bioxor\source\repos\Variables\LINQ-Join\bin\Debug\net5.0\LINQ-Join.runtimeconfig.json
+C:\Users\Bioxor\source\repos\Variables\LINQ-Join\bin\Debug\net5.0\LINQ-Join.runtimeconfig.dev.json
+C:\Users\Bioxor\source\repos\Variables\LINQ-Join\bin\Debug\net5.0\LINQ-Join.dll
+C:\Users\Bioxor\source\repos\Variables\LINQ-Join\bin\Debug\net5.0\ref\LINQ-Join.dll
+C:\Users\Bioxor\source\repos\Variables\LINQ-Join\bin\Debug\net5.0\LINQ-Join.pdb
+C:\Users\Bioxor\source\repos\Variables\LINQ-Join\obj\Debug\net5.0\LINQ-Join.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bioxor\source\repos\Variables\LINQ-Join\obj\Debug\net5.0\LINQ-Join.AssemblyInfoInputs.cache
+C:\Users\Bioxor\source\repos\Variables\LINQ-Join\obj\Debug\net5.0\LINQ-Join.AssemblyInfo.cs
+C:\Users\Bioxor\source\repos\Variables\LINQ-Join\obj\Debug\net5.0\LINQ-Join.csproj.CoreCompileInputs.cache
+C:\Users\Bioxor\source\repos\Variables\LINQ-Join\obj\Debug\net5.0\LINQ-Join.dll
+C:\Users\Bioxor\source\repos\Variables\LINQ-Join\obj\Debug\net5.0\ref\LINQ-Join.dll
+C:\Users\Bioxor\source\repos\Variables\LINQ-Join\obj\Debug\net5.0\LINQ-Join.pdb
+C:\Users\Bioxor\source\repos\Variables\LINQ-Join\obj\Debug\net5.0\LINQ-Join.genruntimeconfig.cache
+C:\Users\Bioxor\source\repos\Variables\LINQ-Join\obj\Debug\net5.0\LINQ-Join.csproj.AssemblyReference.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\LINQ-Join\bin\Debug\net5.0\LINQ-Join.exe
+C:\Users\Bioxor\source\repos\Csharp Curso\LINQ-Join\bin\Debug\net5.0\LINQ-Join.deps.json
+C:\Users\Bioxor\source\repos\Csharp Curso\LINQ-Join\bin\Debug\net5.0\LINQ-Join.runtimeconfig.json
+C:\Users\Bioxor\source\repos\Csharp Curso\LINQ-Join\bin\Debug\net5.0\LINQ-Join.runtimeconfig.dev.json
+C:\Users\Bioxor\source\repos\Csharp Curso\LINQ-Join\bin\Debug\net5.0\LINQ-Join.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\LINQ-Join\bin\Debug\net5.0\ref\LINQ-Join.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\LINQ-Join\bin\Debug\net5.0\LINQ-Join.pdb
+C:\Users\Bioxor\source\repos\Csharp Curso\LINQ-Join\obj\Debug\net5.0\LINQ-Join.csproj.AssemblyReference.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\LINQ-Join\obj\Debug\net5.0\LINQ-Join.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bioxor\source\repos\Csharp Curso\LINQ-Join\obj\Debug\net5.0\LINQ-Join.AssemblyInfoInputs.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\LINQ-Join\obj\Debug\net5.0\LINQ-Join.AssemblyInfo.cs
+C:\Users\Bioxor\source\repos\Csharp Curso\LINQ-Join\obj\Debug\net5.0\LINQ-Join.csproj.CoreCompileInputs.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\LINQ-Join\obj\Debug\net5.0\LINQ-Join.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\LINQ-Join\obj\Debug\net5.0\ref\LINQ-Join.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\LINQ-Join\obj\Debug\net5.0\LINQ-Join.pdb
+C:\Users\Bioxor\source\repos\Csharp Curso\LINQ-Join\obj\Debug\net5.0\LINQ-Join.genruntimeconfig.cache

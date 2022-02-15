@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TipoDeDatos/1.0.0": {
+        "runtime": {
+          "TipoDeDatos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TipoDeDatos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

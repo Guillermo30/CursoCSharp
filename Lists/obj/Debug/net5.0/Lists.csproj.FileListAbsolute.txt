@@ -1,0 +1,32 @@
+C:\Users\Bioxor\source\repos\Variables\Lists\bin\Debug\net5.0\Lists.exe
+C:\Users\Bioxor\source\repos\Variables\Lists\bin\Debug\net5.0\Lists.deps.json
+C:\Users\Bioxor\source\repos\Variables\Lists\bin\Debug\net5.0\Lists.runtimeconfig.json
+C:\Users\Bioxor\source\repos\Variables\Lists\bin\Debug\net5.0\Lists.runtimeconfig.dev.json
+C:\Users\Bioxor\source\repos\Variables\Lists\bin\Debug\net5.0\Lists.dll
+C:\Users\Bioxor\source\repos\Variables\Lists\bin\Debug\net5.0\ref\Lists.dll
+C:\Users\Bioxor\source\repos\Variables\Lists\bin\Debug\net5.0\Lists.pdb
+C:\Users\Bioxor\source\repos\Variables\Lists\obj\Debug\net5.0\Lists.csproj.AssemblyReference.cache
+C:\Users\Bioxor\source\repos\Variables\Lists\obj\Debug\net5.0\Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bioxor\source\repos\Variables\Lists\obj\Debug\net5.0\Lists.AssemblyInfoInputs.cache
+C:\Users\Bioxor\source\repos\Variables\Lists\obj\Debug\net5.0\Lists.AssemblyInfo.cs
+C:\Users\Bioxor\source\repos\Variables\Lists\obj\Debug\net5.0\Lists.csproj.CoreCompileInputs.cache
+C:\Users\Bioxor\source\repos\Variables\Lists\obj\Debug\net5.0\Lists.dll
+C:\Users\Bioxor\source\repos\Variables\Lists\obj\Debug\net5.0\ref\Lists.dll
+C:\Users\Bioxor\source\repos\Variables\Lists\obj\Debug\net5.0\Lists.pdb
+C:\Users\Bioxor\source\repos\Variables\Lists\obj\Debug\net5.0\Lists.genruntimeconfig.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\Lists\bin\Debug\net5.0\Lists.exe
+C:\Users\Bioxor\source\repos\Csharp Curso\Lists\bin\Debug\net5.0\Lists.deps.json
+C:\Users\Bioxor\source\repos\Csharp Curso\Lists\bin\Debug\net5.0\Lists.runtimeconfig.json
+C:\Users\Bioxor\source\repos\Csharp Curso\Lists\bin\Debug\net5.0\Lists.runtimeconfig.dev.json
+C:\Users\Bioxor\source\repos\Csharp Curso\Lists\bin\Debug\net5.0\Lists.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\Lists\bin\Debug\net5.0\ref\Lists.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\Lists\bin\Debug\net5.0\Lists.pdb
+C:\Users\Bioxor\source\repos\Csharp Curso\Lists\obj\Debug\net5.0\Lists.csproj.AssemblyReference.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\Lists\obj\Debug\net5.0\Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bioxor\source\repos\Csharp Curso\Lists\obj\Debug\net5.0\Lists.AssemblyInfoInputs.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\Lists\obj\Debug\net5.0\Lists.AssemblyInfo.cs
+C:\Users\Bioxor\source\repos\Csharp Curso\Lists\obj\Debug\net5.0\Lists.csproj.CoreCompileInputs.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\Lists\obj\Debug\net5.0\Lists.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\Lists\obj\Debug\net5.0\ref\Lists.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\Lists\obj\Debug\net5.0\Lists.pdb
+C:\Users\Bioxor\source\repos\Csharp Curso\Lists\obj\Debug\net5.0\Lists.genruntimeconfig.cache

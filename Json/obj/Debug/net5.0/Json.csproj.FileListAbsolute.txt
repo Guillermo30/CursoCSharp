@@ -1,0 +1,32 @@
+C:\Users\Bioxor\source\repos\Variables\Json\bin\Debug\net5.0\Json.exe
+C:\Users\Bioxor\source\repos\Variables\Json\bin\Debug\net5.0\Json.deps.json
+C:\Users\Bioxor\source\repos\Variables\Json\bin\Debug\net5.0\Json.runtimeconfig.json
+C:\Users\Bioxor\source\repos\Variables\Json\bin\Debug\net5.0\Json.runtimeconfig.dev.json
+C:\Users\Bioxor\source\repos\Variables\Json\bin\Debug\net5.0\Json.dll
+C:\Users\Bioxor\source\repos\Variables\Json\bin\Debug\net5.0\ref\Json.dll
+C:\Users\Bioxor\source\repos\Variables\Json\bin\Debug\net5.0\Json.pdb
+C:\Users\Bioxor\source\repos\Variables\Json\obj\Debug\net5.0\Json.csproj.AssemblyReference.cache
+C:\Users\Bioxor\source\repos\Variables\Json\obj\Debug\net5.0\Json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bioxor\source\repos\Variables\Json\obj\Debug\net5.0\Json.AssemblyInfoInputs.cache
+C:\Users\Bioxor\source\repos\Variables\Json\obj\Debug\net5.0\Json.AssemblyInfo.cs
+C:\Users\Bioxor\source\repos\Variables\Json\obj\Debug\net5.0\Json.csproj.CoreCompileInputs.cache
+C:\Users\Bioxor\source\repos\Variables\Json\obj\Debug\net5.0\Json.dll
+C:\Users\Bioxor\source\repos\Variables\Json\obj\Debug\net5.0\ref\Json.dll
+C:\Users\Bioxor\source\repos\Variables\Json\obj\Debug\net5.0\Json.pdb
+C:\Users\Bioxor\source\repos\Variables\Json\obj\Debug\net5.0\Json.genruntimeconfig.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\Json\bin\Debug\net5.0\Json.exe
+C:\Users\Bioxor\source\repos\Csharp Curso\Json\bin\Debug\net5.0\Json.deps.json
+C:\Users\Bioxor\source\repos\Csharp Curso\Json\bin\Debug\net5.0\Json.runtimeconfig.json
+C:\Users\Bioxor\source\repos\Csharp Curso\Json\bin\Debug\net5.0\Json.runtimeconfig.dev.json
+C:\Users\Bioxor\source\repos\Csharp Curso\Json\bin\Debug\net5.0\Json.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\Json\bin\Debug\net5.0\ref\Json.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\Json\bin\Debug\net5.0\Json.pdb
+C:\Users\Bioxor\source\repos\Csharp Curso\Json\obj\Debug\net5.0\Json.csproj.AssemblyReference.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\Json\obj\Debug\net5.0\Json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bioxor\source\repos\Csharp Curso\Json\obj\Debug\net5.0\Json.AssemblyInfoInputs.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\Json\obj\Debug\net5.0\Json.AssemblyInfo.cs
+C:\Users\Bioxor\source\repos\Csharp Curso\Json\obj\Debug\net5.0\Json.csproj.CoreCompileInputs.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\Json\obj\Debug\net5.0\Json.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\Json\obj\Debug\net5.0\ref\Json.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\Json\obj\Debug\net5.0\Json.pdb
+C:\Users\Bioxor\source\repos\Csharp Curso\Json\obj\Debug\net5.0\Json.genruntimeconfig.cache

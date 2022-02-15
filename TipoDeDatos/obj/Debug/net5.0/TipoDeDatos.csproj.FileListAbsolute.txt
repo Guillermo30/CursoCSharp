@@ -1,0 +1,32 @@
+C:\Users\Bioxor\source\repos\Variables\TipoDeDatos\bin\Debug\net5.0\TipoDeDatos.exe
+C:\Users\Bioxor\source\repos\Variables\TipoDeDatos\bin\Debug\net5.0\TipoDeDatos.deps.json
+C:\Users\Bioxor\source\repos\Variables\TipoDeDatos\bin\Debug\net5.0\TipoDeDatos.runtimeconfig.json
+C:\Users\Bioxor\source\repos\Variables\TipoDeDatos\bin\Debug\net5.0\TipoDeDatos.runtimeconfig.dev.json
+C:\Users\Bioxor\source\repos\Variables\TipoDeDatos\bin\Debug\net5.0\TipoDeDatos.dll
+C:\Users\Bioxor\source\repos\Variables\TipoDeDatos\bin\Debug\net5.0\ref\TipoDeDatos.dll
+C:\Users\Bioxor\source\repos\Variables\TipoDeDatos\bin\Debug\net5.0\TipoDeDatos.pdb
+C:\Users\Bioxor\source\repos\Variables\TipoDeDatos\obj\Debug\net5.0\TipoDeDatos.csproj.AssemblyReference.cache
+C:\Users\Bioxor\source\repos\Variables\TipoDeDatos\obj\Debug\net5.0\TipoDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bioxor\source\repos\Variables\TipoDeDatos\obj\Debug\net5.0\TipoDeDatos.AssemblyInfoInputs.cache
+C:\Users\Bioxor\source\repos\Variables\TipoDeDatos\obj\Debug\net5.0\TipoDeDatos.AssemblyInfo.cs
+C:\Users\Bioxor\source\repos\Variables\TipoDeDatos\obj\Debug\net5.0\TipoDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Bioxor\source\repos\Variables\TipoDeDatos\obj\Debug\net5.0\TipoDeDatos.dll
+C:\Users\Bioxor\source\repos\Variables\TipoDeDatos\obj\Debug\net5.0\ref\TipoDeDatos.dll
+C:\Users\Bioxor\source\repos\Variables\TipoDeDatos\obj\Debug\net5.0\TipoDeDatos.pdb
+C:\Users\Bioxor\source\repos\Variables\TipoDeDatos\obj\Debug\net5.0\TipoDeDatos.genruntimeconfig.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\TipoDeDatos\bin\Debug\net5.0\TipoDeDatos.exe
+C:\Users\Bioxor\source\repos\Csharp Curso\TipoDeDatos\bin\Debug\net5.0\TipoDeDatos.deps.json
+C:\Users\Bioxor\source\repos\Csharp Curso\TipoDeDatos\bin\Debug\net5.0\TipoDeDatos.runtimeconfig.json
+C:\Users\Bioxor\source\repos\Csharp Curso\TipoDeDatos\bin\Debug\net5.0\TipoDeDatos.runtimeconfig.dev.json
+C:\Users\Bioxor\source\repos\Csharp Curso\TipoDeDatos\bin\Debug\net5.0\TipoDeDatos.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\TipoDeDatos\bin\Debug\net5.0\ref\TipoDeDatos.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\TipoDeDatos\bin\Debug\net5.0\TipoDeDatos.pdb
+C:\Users\Bioxor\source\repos\Csharp Curso\TipoDeDatos\obj\Debug\net5.0\TipoDeDatos.csproj.AssemblyReference.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\TipoDeDatos\obj\Debug\net5.0\TipoDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bioxor\source\repos\Csharp Curso\TipoDeDatos\obj\Debug\net5.0\TipoDeDatos.AssemblyInfoInputs.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\TipoDeDatos\obj\Debug\net5.0\TipoDeDatos.AssemblyInfo.cs
+C:\Users\Bioxor\source\repos\Csharp Curso\TipoDeDatos\obj\Debug\net5.0\TipoDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\TipoDeDatos\obj\Debug\net5.0\TipoDeDatos.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\TipoDeDatos\obj\Debug\net5.0\ref\TipoDeDatos.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\TipoDeDatos\obj\Debug\net5.0\TipoDeDatos.pdb
+C:\Users\Bioxor\source\repos\Csharp Curso\TipoDeDatos\obj\Debug\net5.0\TipoDeDatos.genruntimeconfig.cache

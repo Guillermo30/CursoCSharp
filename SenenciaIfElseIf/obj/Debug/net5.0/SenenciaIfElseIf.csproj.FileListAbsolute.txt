@@ -1,0 +1,32 @@
+C:\Users\Bioxor\source\repos\Variables\SenenciaIfElseIf\bin\Debug\net5.0\SenenciaIfElseIf.exe
+C:\Users\Bioxor\source\repos\Variables\SenenciaIfElseIf\bin\Debug\net5.0\SenenciaIfElseIf.deps.json
+C:\Users\Bioxor\source\repos\Variables\SenenciaIfElseIf\bin\Debug\net5.0\SenenciaIfElseIf.runtimeconfig.json
+C:\Users\Bioxor\source\repos\Variables\SenenciaIfElseIf\bin\Debug\net5.0\SenenciaIfElseIf.runtimeconfig.dev.json
+C:\Users\Bioxor\source\repos\Variables\SenenciaIfElseIf\bin\Debug\net5.0\SenenciaIfElseIf.dll
+C:\Users\Bioxor\source\repos\Variables\SenenciaIfElseIf\bin\Debug\net5.0\ref\SenenciaIfElseIf.dll
+C:\Users\Bioxor\source\repos\Variables\SenenciaIfElseIf\bin\Debug\net5.0\SenenciaIfElseIf.pdb
+C:\Users\Bioxor\source\repos\Variables\SenenciaIfElseIf\obj\Debug\net5.0\SenenciaIfElseIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bioxor\source\repos\Variables\SenenciaIfElseIf\obj\Debug\net5.0\SenenciaIfElseIf.AssemblyInfoInputs.cache
+C:\Users\Bioxor\source\repos\Variables\SenenciaIfElseIf\obj\Debug\net5.0\SenenciaIfElseIf.AssemblyInfo.cs
+C:\Users\Bioxor\source\repos\Variables\SenenciaIfElseIf\obj\Debug\net5.0\SenenciaIfElseIf.csproj.CoreCompileInputs.cache
+C:\Users\Bioxor\source\repos\Variables\SenenciaIfElseIf\obj\Debug\net5.0\SenenciaIfElseIf.dll
+C:\Users\Bioxor\source\repos\Variables\SenenciaIfElseIf\obj\Debug\net5.0\ref\SenenciaIfElseIf.dll
+C:\Users\Bioxor\source\repos\Variables\SenenciaIfElseIf\obj\Debug\net5.0\SenenciaIfElseIf.pdb
+C:\Users\Bioxor\source\repos\Variables\SenenciaIfElseIf\obj\Debug\net5.0\SenenciaIfElseIf.genruntimeconfig.cache
+C:\Users\Bioxor\source\repos\Variables\SenenciaIfElseIf\obj\Debug\net5.0\SenenciaIfElseIf.csproj.AssemblyReference.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\SenenciaIfElseIf\bin\Debug\net5.0\SenenciaIfElseIf.exe
+C:\Users\Bioxor\source\repos\Csharp Curso\SenenciaIfElseIf\bin\Debug\net5.0\SenenciaIfElseIf.deps.json
+C:\Users\Bioxor\source\repos\Csharp Curso\SenenciaIfElseIf\bin\Debug\net5.0\SenenciaIfElseIf.runtimeconfig.json
+C:\Users\Bioxor\source\repos\Csharp Curso\SenenciaIfElseIf\bin\Debug\net5.0\SenenciaIfElseIf.runtimeconfig.dev.json
+C:\Users\Bioxor\source\repos\Csharp Curso\SenenciaIfElseIf\bin\Debug\net5.0\SenenciaIfElseIf.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\SenenciaIfElseIf\bin\Debug\net5.0\ref\SenenciaIfElseIf.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\SenenciaIfElseIf\bin\Debug\net5.0\SenenciaIfElseIf.pdb
+C:\Users\Bioxor\source\repos\Csharp Curso\SenenciaIfElseIf\obj\Debug\net5.0\SenenciaIfElseIf.csproj.AssemblyReference.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\SenenciaIfElseIf\obj\Debug\net5.0\SenenciaIfElseIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bioxor\source\repos\Csharp Curso\SenenciaIfElseIf\obj\Debug\net5.0\SenenciaIfElseIf.AssemblyInfoInputs.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\SenenciaIfElseIf\obj\Debug\net5.0\SenenciaIfElseIf.AssemblyInfo.cs
+C:\Users\Bioxor\source\repos\Csharp Curso\SenenciaIfElseIf\obj\Debug\net5.0\SenenciaIfElseIf.csproj.CoreCompileInputs.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\SenenciaIfElseIf\obj\Debug\net5.0\SenenciaIfElseIf.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\SenenciaIfElseIf\obj\Debug\net5.0\ref\SenenciaIfElseIf.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\SenenciaIfElseIf\obj\Debug\net5.0\SenenciaIfElseIf.pdb
+C:\Users\Bioxor\source\repos\Csharp Curso\SenenciaIfElseIf\obj\Debug\net5.0\SenenciaIfElseIf.genruntimeconfig.cache

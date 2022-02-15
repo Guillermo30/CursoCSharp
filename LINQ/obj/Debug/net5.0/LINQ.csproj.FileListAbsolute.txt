@@ -1,0 +1,32 @@
+C:\Users\Bioxor\source\repos\Variables\LINQ\bin\Debug\net5.0\LINQ.exe
+C:\Users\Bioxor\source\repos\Variables\LINQ\bin\Debug\net5.0\LINQ.deps.json
+C:\Users\Bioxor\source\repos\Variables\LINQ\bin\Debug\net5.0\LINQ.runtimeconfig.json
+C:\Users\Bioxor\source\repos\Variables\LINQ\bin\Debug\net5.0\LINQ.runtimeconfig.dev.json
+C:\Users\Bioxor\source\repos\Variables\LINQ\bin\Debug\net5.0\LINQ.dll
+C:\Users\Bioxor\source\repos\Variables\LINQ\bin\Debug\net5.0\ref\LINQ.dll
+C:\Users\Bioxor\source\repos\Variables\LINQ\bin\Debug\net5.0\LINQ.pdb
+C:\Users\Bioxor\source\repos\Variables\LINQ\obj\Debug\net5.0\LINQ.csproj.AssemblyReference.cache
+C:\Users\Bioxor\source\repos\Variables\LINQ\obj\Debug\net5.0\LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bioxor\source\repos\Variables\LINQ\obj\Debug\net5.0\LINQ.AssemblyInfoInputs.cache
+C:\Users\Bioxor\source\repos\Variables\LINQ\obj\Debug\net5.0\LINQ.AssemblyInfo.cs
+C:\Users\Bioxor\source\repos\Variables\LINQ\obj\Debug\net5.0\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Bioxor\source\repos\Variables\LINQ\obj\Debug\net5.0\LINQ.dll
+C:\Users\Bioxor\source\repos\Variables\LINQ\obj\Debug\net5.0\ref\LINQ.dll
+C:\Users\Bioxor\source\repos\Variables\LINQ\obj\Debug\net5.0\LINQ.pdb
+C:\Users\Bioxor\source\repos\Variables\LINQ\obj\Debug\net5.0\LINQ.genruntimeconfig.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\LINQ\bin\Debug\net5.0\LINQ.exe
+C:\Users\Bioxor\source\repos\Csharp Curso\LINQ\bin\Debug\net5.0\LINQ.deps.json
+C:\Users\Bioxor\source\repos\Csharp Curso\LINQ\bin\Debug\net5.0\LINQ.runtimeconfig.json
+C:\Users\Bioxor\source\repos\Csharp Curso\LINQ\bin\Debug\net5.0\LINQ.runtimeconfig.dev.json
+C:\Users\Bioxor\source\repos\Csharp Curso\LINQ\bin\Debug\net5.0\LINQ.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\LINQ\bin\Debug\net5.0\ref\LINQ.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\LINQ\bin\Debug\net5.0\LINQ.pdb
+C:\Users\Bioxor\source\repos\Csharp Curso\LINQ\obj\Debug\net5.0\LINQ.csproj.AssemblyReference.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\LINQ\obj\Debug\net5.0\LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bioxor\source\repos\Csharp Curso\LINQ\obj\Debug\net5.0\LINQ.AssemblyInfoInputs.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\LINQ\obj\Debug\net5.0\LINQ.AssemblyInfo.cs
+C:\Users\Bioxor\source\repos\Csharp Curso\LINQ\obj\Debug\net5.0\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Bioxor\source\repos\Csharp Curso\LINQ\obj\Debug\net5.0\LINQ.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\LINQ\obj\Debug\net5.0\ref\LINQ.dll
+C:\Users\Bioxor\source\repos\Csharp Curso\LINQ\obj\Debug\net5.0\LINQ.pdb
+C:\Users\Bioxor\source\repos\Csharp Curso\LINQ\obj\Debug\net5.0\LINQ.genruntimeconfig.cache
